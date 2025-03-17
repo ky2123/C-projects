@@ -1,0 +1,3 @@
+apple : 10
+calculus : 11
+oranges : 12

@@ -1,0 +1,10 @@
+10 : 1
+11 : 1
+12 : 1
+: : 3
+apple : 1
+calculus : 1
+computing : 1
+ethics : 1
+oranges : 1
+profession : 1

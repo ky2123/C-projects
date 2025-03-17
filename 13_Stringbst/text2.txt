@@ -1,0 +1,5 @@
+beans : 21
+bird : 1
+dinner : 1
+turkey : 23
+wings : 25
